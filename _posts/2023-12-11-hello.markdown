@@ -1,0 +1,21 @@
+---
+layout: post
+comments: true
+title: "Hello"
+excerpt: "Welcome to my first blog post"
+date:   2023-12-11 19:00:00
+mathjax: false
+---
+
+<style>
+.post-header h1 {
+    font-size: 35px;
+}
+.post pre,
+.post code {
+    background-color: #fcfcfc;
+    font-size: 13px; /* make code smaller for this post... */
+}
+</style>
+
+Hello!
